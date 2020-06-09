@@ -31,3 +31,4 @@ Morpheus (Laurence Fishburne), le capitaine du Nebuchadnezzar, contacte Neo et p
 6. Trouve l'expression régulière qui correspond à l'url de la fiche du fils sur IMDB https://www.imdb.com/title/tt0133093 (attention à ne pas sélectionner les parenthèses).
 
 /https?:\/\/[a-zA-Z\.]+\/[a-zA-Z]+\/[a-zA-Z0-9]+/g
+

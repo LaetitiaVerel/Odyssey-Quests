@@ -7,4 +7,6 @@
 Here are all the quests that I did during my bootcamp at the Wild Code School Paris (2020).
 
 * **Pandas**
+* **Matplotlib**
+* **Seaborn**
 * **Regex**

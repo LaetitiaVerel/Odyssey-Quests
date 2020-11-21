@@ -10,3 +10,4 @@ Here are all the quests that I did during my bootcamp at the Wild Code School Pa
 * **Matplotlib**
 * **Seaborn**
 * **Regex**
+* **Scikit-Learn**
